@@ -7,10 +7,9 @@
   .nav { height: 100px; }
   .nav-logo-text { font-size: 26px; }
   .nav-home { height: auto; min-height: 110px; padding: 16px 0; }
-  .nav-home .nav-logo-text { font-size: 72px; white-space: nowrap; line-height: 1; }
+  .nav-home .nav-logo-text { font-size: 72px; white-space: nowrap; line-height: 1; margin-left: 5vw; }
   .nav-home .nav-logo img { width: 72px; height: 72px; }
   .nav-home .nav-logo { align-items: center; gap: 0; flex: 1; }
-  .nav-home .nav-logo-text { margin-left: auto; padding-left: 28px; white-space: nowrap; }
   .nav-home .nav-hamburger { align-self: center; }
   .nav-home .nav-hamburger svg { width: 60px; height: 60px; }
   .nav-inner { padding: 0 48px; }
@@ -85,10 +84,9 @@
   .nav-logo-text { font-size: 30px; }
   .nav-inner { padding: 0 64px; }
   .nav-home { height: auto; min-height: 140px; padding: 20px 0; }
-  .nav-home .nav-logo-text { font-size: 96px; white-space: nowrap; line-height: 1; }
+  .nav-home .nav-logo-text { font-size: 96px; white-space: nowrap; line-height: 1; margin-left: 5vw; }
   .nav-home .nav-logo img { width: 96px; height: 96px; }
   .nav-home .nav-logo { align-items: center; gap: 0; flex: 1; }
-  .nav-home .nav-logo-text { margin-left: auto; padding-left: 36px; white-space: nowrap; }
   .nav-home .nav-hamburger { display: flex !important; align-self: center; }
   .nav-home .nav-hamburger svg { width: 76px; height: 76px; }
   .hero-career {
