@@ -140,7 +140,7 @@
 /* ===== HERO — INDEX DIAGONAL SPLIT ===== */
 .hero-wrapper {
   position: relative;
-  height: 70vh;
+  height: 78vh;
   display: flex;
   overflow: hidden;
 }
@@ -207,21 +207,7 @@
 .hero-entrepreneur-content .btn        { animation: heroFadeUp 0.5s ease 0.9s forwards; }
 
 .hero-center-badge {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 10;
-  background: var(--dark);
-  border-radius: 999px;
-  padding: 10px 20px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  box-shadow: 0 0 32px rgba(232,93,38,0.3);
-  white-space: nowrap;
-  opacity: 0;
-  animation: heroFadeUp 0.5s ease 1.1s forwards;
+  display: none;
 }
 
 .hero-center-badge span {
@@ -616,8 +602,8 @@
 /* ===== HOME PAGE NAV (hamburger-only, logo fills width) ===== */
 .nav-home {
   height: auto;
-  min-height: 120px;
-  padding: 16px 0;
+  min-height: 100px;
+  padding: 12px 0;
 }
 .nav-home .nav-links {
   display: none !important;
@@ -625,7 +611,7 @@
 .nav-home .nav-hamburger {
   display: flex !important;
   flex-shrink: 0;
-  align-self: flex-start;
+  align-self: center;
 }
 .nav-home .nav-hamburger svg {
   width: 48px;
@@ -639,7 +625,15 @@
   width: 80px;
   height: 80px;
   flex-shrink: 0;
-  filter: drop-shadow(0 0 10px rgba(255,255,255,0.45));
+  filter:
+    drop-shadow(2px  0   0 white)
+    drop-shadow(-2px 0   0 white)
+    drop-shadow(0    2px 0 white)
+    drop-shadow(0   -2px 0 white)
+    drop-shadow(2px  2px 0 white)
+    drop-shadow(-2px 2px 0 white)
+    drop-shadow(2px -2px 0 white)
+    drop-shadow(-2px -2px 0 white);
 }
 .nav-home .nav-logo-text {
   font-size: 48px;
