@@ -626,14 +626,15 @@
   height: 56px;
   flex-shrink: 0;
   filter:
-    drop-shadow(2px  0   0 white)
-    drop-shadow(-2px 0   0 white)
-    drop-shadow(0    2px 0 white)
-    drop-shadow(0   -2px 0 white)
-    drop-shadow(2px  2px 0 white)
-    drop-shadow(-2px 2px 0 white)
-    drop-shadow(2px -2px 0 white)
-    drop-shadow(-2px -2px 0 white);
+    saturate(2) brightness(1.1)
+    drop-shadow(1px  0   0 white)
+    drop-shadow(-1px 0   0 white)
+    drop-shadow(0    1px 0 white)
+    drop-shadow(0   -1px 0 white)
+    drop-shadow(1px  1px 0 white)
+    drop-shadow(-1px 1px 0 white)
+    drop-shadow(1px -1px 0 white)
+    drop-shadow(-1px -1px 0 white);
 }
 .nav-home .nav-logo-text {
   font-size: 48px;
