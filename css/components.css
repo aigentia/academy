@@ -602,7 +602,7 @@
 /* ===== HOME PAGE NAV (hamburger-only, logo fills width) ===== */
 .nav-home {
   height: auto;
-  min-height: 100px;
+  min-height: 84px;
   padding: 12px 0;
 }
 .nav-home .nav-links {
@@ -614,16 +614,16 @@
   align-self: center;
 }
 .nav-home .nav-hamburger svg {
-  width: 48px;
-  height: 48px;
+  width: 44px;
+  height: 44px;
 }
 .nav-home .nav-logo {
-  align-items: flex-start;
-  gap: 24px;
+  align-items: center;
+  gap: 20px;
 }
 .nav-home .nav-logo img {
-  width: 80px;
-  height: 80px;
+  width: 56px;
+  height: 56px;
   flex-shrink: 0;
   filter:
     drop-shadow(2px  0   0 white)
