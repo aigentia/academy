@@ -140,7 +140,7 @@
 /* ===== HERO — INDEX DIAGONAL SPLIT ===== */
 .hero-wrapper {
   position: relative;
-  height: 100svh;
+  height: 70vh;
   display: flex;
   overflow: hidden;
 }
@@ -627,14 +627,19 @@
   flex-shrink: 0;
   align-self: flex-start;
 }
+.nav-home .nav-hamburger svg {
+  width: 48px;
+  height: 48px;
+}
 .nav-home .nav-logo {
   align-items: flex-start;
-  gap: 14px;
+  gap: 24px;
 }
 .nav-home .nav-logo img {
   width: 80px;
   height: 80px;
   flex-shrink: 0;
+  filter: drop-shadow(0 0 10px rgba(255,255,255,0.45));
 }
 .nav-home .nav-logo-text {
   font-size: 48px;
