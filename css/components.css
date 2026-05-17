@@ -615,7 +615,9 @@
 
 /* ===== HOME PAGE NAV (hamburger-only, logo fills width) ===== */
 .nav-home {
-  height: 120px;
+  height: auto;
+  min-height: 120px;
+  padding: 16px 0;
 }
 .nav-home .nav-links {
   display: none !important;
@@ -623,13 +625,21 @@
 .nav-home .nav-hamburger {
   display: flex !important;
   flex-shrink: 0;
+  align-self: flex-start;
+}
+.nav-home .nav-logo {
+  align-items: flex-start;
+  gap: 14px;
 }
 .nav-home .nav-logo img {
   width: 80px;
   height: 80px;
+  flex-shrink: 0;
 }
 .nav-home .nav-logo-text {
-  font-size: 36px;
+  font-size: 48px;
+  white-space: normal;
+  line-height: 1;
 }
 
 /* ===== COOKIE BANNER ===== */
