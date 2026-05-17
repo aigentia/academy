@@ -81,6 +81,9 @@
   justify-content: center;
   color: var(--white);
   padding: 4px;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
 
 /* Mobile menu overlay */
@@ -612,16 +615,21 @@
 
 /* ===== HOME PAGE NAV (hamburger-only, logo fills width) ===== */
 .nav-home {
-  height: 100px;
+  height: 120px;
 }
 .nav-home .nav-links {
   display: none !important;
 }
 .nav-home .nav-hamburger {
   display: flex !important;
+  flex-shrink: 0;
+}
+.nav-home .nav-logo img {
+  width: 80px;
+  height: 80px;
 }
 .nav-home .nav-logo-text {
-  font-size: 28px;
+  font-size: 36px;
 }
 
 /* ===== COOKIE BANNER ===== */
