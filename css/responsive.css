@@ -4,7 +4,7 @@
 
 /* ===== TABLET: 768px+ ===== */
 @media (min-width: 768px) {
-  .nav { height: 72px; }
+  .nav { height: 96px; }
   .nav-inner { padding: 0 48px; }
   .nav-links { display: flex; }
   .nav-hamburger { display: none; }
