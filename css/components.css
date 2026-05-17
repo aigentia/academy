@@ -610,6 +610,20 @@
 }
 .footer-legal a:hover { color: var(--white); }
 
+/* ===== HOME PAGE NAV (hamburger-only, logo fills width) ===== */
+.nav-home {
+  height: 100px;
+}
+.nav-home .nav-links {
+  display: none !important;
+}
+.nav-home .nav-hamburger {
+  display: flex !important;
+}
+.nav-home .nav-logo-text {
+  font-size: 28px;
+}
+
 /* ===== COOKIE BANNER ===== */
 .cookie-banner {
   position: fixed;

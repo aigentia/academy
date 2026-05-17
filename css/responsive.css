@@ -6,6 +6,9 @@
 @media (min-width: 768px) {
   .nav { height: 100px; }
   .nav-logo-text { font-size: 26px; }
+  .nav-home { height: 120px; }
+  .nav-home .nav-logo-text { font-size: 34px; }
+  .nav-home .nav-logo img { width: 80px; height: 80px; }
   .nav-inner { padding: 0 48px; }
   .nav-links { display: flex; }
   .nav-hamburger { display: none; }
@@ -76,6 +79,9 @@
   .nav { height: 120px; }
   .nav-logo-text { font-size: 30px; }
   .nav-inner { padding: 0 64px; }
+  .nav-home { height: 130px; }
+  .nav-home .nav-logo-text { font-size: 38px; }
+  .nav-home .nav-logo img { width: 90px; height: 90px; }
   .hero-career {
     clip-path: polygon(0 0, 100% 0, 80% 100%, 0 100%);
     flex: 0 0 55%;
