@@ -52,10 +52,11 @@
 
 .nav-logo-text {
   font-family: var(--font-display);
-  font-size: 22px;
-  letter-spacing: 0.1em;
+  font-size: 15px;
+  letter-spacing: 0.08em;
   color: var(--white);
-  line-height: 1;
+  line-height: 1.1;
+  white-space: nowrap;
 }
 
 .nav-links {
@@ -556,8 +557,8 @@
 }
 .footer-logo-text {
   font-family: var(--font-display);
-  font-size: 22px;
-  letter-spacing: 0.1em;
+  font-size: 18px;
+  letter-spacing: 0.08em;
   color: var(--white);
 }
 .footer-tagline {
