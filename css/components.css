@@ -631,8 +631,8 @@
   flex-shrink: 0;
 }
 .nav-home .nav-logo-text {
-  font-size: clamp(32px, 10vw, 48px);
-  white-space: normal;
+  font-size: clamp(16px, 5vw, 22px);
+  white-space: nowrap;
   line-height: 1;
   min-width: 0;
 }
