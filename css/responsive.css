@@ -154,12 +154,12 @@
   .hero-entrepreneur {
     flex: none;
     width: 100%;
-    height: 70vh;
+    height: auto;
     clip-path: none !important;
     margin-left: 0;
   }
-  .hero-career-content { padding: 32px 24px; }
-  .hero-entrepreneur-content { padding: 32px 24px; margin-left: 0; }
+  .hero-career-content { padding: 40px 24px; }
+  .hero-entrepreneur-content { padding: 40px 24px; margin-left: 0; }
   .hero-career-content h1,
   .hero-entrepreneur-content h1 { font-size: 40px; }
   .hero-career-content .btn,
