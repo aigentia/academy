@@ -634,7 +634,7 @@
   flex-shrink: 0;
 }
 .nav-home .nav-logo-text {
-  font-size: clamp(16px, 5vw, 22px);
+  font-size: clamp(16px, 5.5vw, 24px);
   white-space: nowrap;
   line-height: 1;
   min-width: 0;
