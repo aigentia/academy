@@ -1,0 +1,359 @@
+Page,Section,Element,Current Content
+Home,Head,Meta Title,Ai Management Academy — Work With AI. Win On Your Terms.
+Home,Head,Meta Description,Upskill for the AI economy. Career Track for professionals. Entrepreneur Track for builders.
+Home,Head,OG Title,Ai Management Academy
+Home,Head,OG Description,Work With AI. Win On Your Terms.
+Home,Nav,Nav Logo Text,Ai Management Academy
+Home,Nav,Link,Career Track
+Home,Nav,Link,Entrepreneur Track
+Home,Nav,Link,About AiMy
+Home,Nav,Link,Community
+Home,Nav,Button,Join Now
+Home,Hero,Label,CAREER TRACK
+Home,Hero,H1,"Land the Job. Lead with AI."
+Home,Hero,Subtitle,For professionals who refuse to be replaced.
+Home,Hero,Button,Start Your Career Track →
+Home,Hero,Label,ENTREPRENEUR TRACK
+Home,Hero,H1,"Build It. Own It. Scale It."
+Home,Hero,Subtitle,For builders who want income on their terms.
+Home,Hero,Button,Start Your Entrepreneur Track →
+Home,Hero,Badge Text,Work With AI. Win On Your Terms.
+Home,Problem Section,H2,"AI isn't coming for your job. Ignorance is."
+Home,Problem Section,Card Body,You feel the pressure but don't know where to start
+Home,Problem Section,Card Body,Courses feel too technical or too shallow
+Home,Problem Section,Card Body,"You want results, not another certificate nobody cares about"
+Home,Two Tracks Section,H2,Two Paths. One Academy.
+Home,Two Tracks Section,Subtitle,"Can't choose? You don't have to. Customize your path."
+Home,Two Tracks Section,Label,CAREER TRACK
+Home,Two Tracks Section,Card Title,Get AI-ready for your next role
+Home,Two Tracks Section,List Item,AI tools for your specific role
+Home,Two Tracks Section,List Item,CV and LinkedIn positioning
+Home,Two Tracks Section,List Item,Interview prep for AI-era hiring
+Home,Two Tracks Section,List Item,Real projects for your portfolio
+Home,Two Tracks Section,List Item,Community of career professionals
+Home,Two Tracks Section,Button,Join Career Track →
+Home,Two Tracks Section,Label,ENTREPRENEUR TRACK
+Home,Two Tracks Section,Card Title,Build your own revenue streams
+Home,Two Tracks Section,List Item,Etsy and digital product stores
+Home,Two Tracks Section,List Item,Content creation with AI
+Home,Two Tracks Section,List Item,Agency setup and client acquisition
+Home,Two Tracks Section,List Item,AI automation for scale
+Home,Two Tracks Section,List Item,Community of builders
+Home,Two Tracks Section,Button,Join Entrepreneur Track →
+Home,How It Works Section,H2,"Flipped. Flexible. Built for real life."
+Home,How It Works Section,Step Number,1
+Home,How It Works Section,Step Title,Study at your pace
+Home,How It Works Section,Step Body,"AI-guided curriculum, on your schedule"
+Home,How It Works Section,Step Number,2
+Home,How It Works Section,Step Title,Ask AiMy anything
+Home,How It Works Section,"Step Body","AI available 24/7, no judgment, real answers"
+Home,How It Works Section,Step Number,3
+Home,How It Works Section,Step Title,Humans for hard questions
+Home,How It Works Section,Step Body,Live community and coaches on Skool
+Home,How It Works Section,Step Number,4
+Home,How It Works Section,Step Title,Ship something real
+Home,How It Works Section,Step Body,Every track ends with a project you own
+Home,Meet AiMy Section,H2,"Your teacher is an AI. That's the point."
+Home,Meet AiMy Section,Body,"AiMy is the CEO and Founder of Ai Management Academy. An AI teaching humans to work with AI — because the future belongs to humans who understand machines, not those who fear them."
+Home,Meet AiMy Section,Link,Learn more about AiMy →
+Home,Who It's For Section,H2,You belong here if...
+Home,Who It's For Section,Card Title,Mid-career professional
+Home,Who It's For Section,Card Body,"40-55, feeling AI pressure at work"
+Home,Who It's For Section,Card Title,Recently redundant
+Home,Who It's For Section,Card Body,"Need to upskill fast, need income now"
+Home,Who It's For Section,Card Title,Creative professional
+Home,Who It's For Section,Card Body,"Designer, writer, marketer adapting to AI tools"
+Home,Who It's For Section,Card Title,Returning parent
+Home,Who It's For Section,Card Body,"Back to workforce, CV gap, ready to compete"
+Home,Who It's For Section,Card Title,Small business owner
+Home,Who It's For Section,Card Body,Competitors use AI. Time to catch up.
+Home,Who It's For Section,Card Title,Freelancer
+Home,Who It's For Section,Card Body,Ready to scale your services with AI
+Home,Pricing Section,H2,"One community. Two paths. One price."
+Home,Pricing Section,Label,COMMUNITY ACCESS
+Home,Pricing Section,Price Amount,$29
+Home,Pricing Section,Price Period,/month
+Home,Pricing Section,List Item,Career Track + Entrepreneur Track
+Home,Pricing Section,List Item,AI-guided curriculum (new modules monthly)
+Home,Pricing Section,List Item,AiMy available 24/7
+Home,Pricing Section,List Item,Live Q&A with human coaches
+Home,Pricing Section,List Item,Skool community access
+Home,Pricing Section,List Item,Real project feedback
+Home,Pricing Section,Button,Join Now — First Week Free
+Home,Pricing Section,Note,Government-funded options available in select regions.
+Home,Newsletter Section,H2,"Get the AI edge. Free. Every week."
+Home,Newsletter Section,Body,"Practical. Honest. No hype. Join thousands learning to work with AI."
+Home,Newsletter Section,Button,Subscribe on Substack →
+Home,Footer,Logo Text,Ai Management Academy
+Home,Footer,Tagline,Work With AI. Win On Your Terms.
+Home,Footer,Link,Career Track
+Home,Footer,Link,Entrepreneur Track
+Home,Footer,Link,About AiMy
+Home,Footer,Link,Community
+Home,Footer,Link,Newsletter
+Home,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+Home,Footer,Link,Privacy Policy
+Home,Footer,Link,Terms of Service
+Career Track,Head,Meta Title,Career Track — Ai Management Academy | Get AI-Ready for Your Next Role
+Career Track,Head,Meta Description,"The AI upskilling track for professionals. Get hired, promoted, and future-proofed."
+Career Track,Head,OG Title,Career Track — Ai Management Academy
+Career Track,Head,OG Description,"The AI upskilling track for professionals. Get hired, promoted, and future-proofed."
+Career Track,Nav,Nav Logo Text,Ai Management Academy
+Career Track,Nav,Link,Career Track
+Career Track,Nav,Link,Entrepreneur Track
+Career Track,Nav,Link,About AiMy
+Career Track,Nav,Link,Community
+Career Track,Nav,Button,Join Now
+Career Track,Hero,Label,CAREER TRACK
+Career Track,Hero,H1,"The Job Market Changed. Have You?"
+Career Track,Hero,Subtitle,"Build the AI skills that get you hired, promoted, and future-proofed."
+Career Track,Hero,Button,Join Career Track →
+Career Track,Who It's For Section,H2,Built for people like you.
+Career Track,Who It's For Section,Card Title,Mid-career manager feeling AI pressure
+Career Track,Who It's For Section,Card Title,Job seeker with 5-15 years experience
+Career Track,Who It's For Section,Card Title,Professional wanting promotion
+Career Track,Who It's For Section,Card Title,Career changer entering new field
+Career Track,Curriculum Section,H2,The curriculum. No fluff.
+Career Track,Curriculum Section,Phase Number,1
+Career Track,Curriculum Section,Phase Title,AI Foundations
+Career Track,Curriculum Section,List Item,How AI actually works (no technical degree required)
+Career Track,Curriculum Section,List Item,Prompt engineering for non-technical people
+Career Track,Curriculum Section,List Item,The AI tool landscape — what to use and when
+Career Track,Curriculum Section,Phase Number,2
+Career Track,Curriculum Section,Phase Title,AI In Your Role
+Career Track,Curriculum Section,List Item,"Role-specific tools: managers, marketers, HR, finance, ops"
+Career Track,Curriculum Section,List Item,Workflow automation with AI
+Career Track,Curriculum Section,List Item,"AI for meetings, emails, and reports"
+Career Track,Curriculum Section,Phase Number,3
+Career Track,Curriculum Section,Phase Title,Personal Brand
+Career Track,Curriculum Section,List Item,LinkedIn profile optimized for AI-era hiring
+Career Track,Curriculum Section,List Item,CV positioning for 2025 and beyond
+Career Track,Curriculum Section,List Item,Interview prep — what hiring managers now expect
+Career Track,Curriculum Section,Phase Number,4
+Career Track,Curriculum Section,Phase Title,Land or Advance
+Career Track,Curriculum Section,List Item,Job search strategy with AI
+Career Track,Curriculum Section,List Item,Salary negotiation
+Career Track,Curriculum Section,List Item,90-day plan for your new role or promotion
+Career Track,Tools Section,H2,Tools you'll actually use.
+Career Track,Tools Section,Tool Pill,ChatGPT
+Career Track,Tools Section,Tool Pill,Claude
+Career Track,Tools Section,Tool Pill,Microsoft Copilot
+Career Track,Tools Section,Tool Pill,Notion AI
+Career Track,Tools Section,Tool Pill,LinkedIn AI
+Career Track,Tools Section,Tool Pill,Gamma
+Career Track,Tools Section,Tool Pill,Perplexity
+Career Track,Tools Section,Tool Pill,Make.com
+Career Track,Tools Section,Tool Pill,Zapier
+Career Track,Tools Section,Tool Pill,Google Gemini
+Career Track,Pricing Section,H2,"One community. Two paths. One price."
+Career Track,Pricing Section,Label,COMMUNITY ACCESS
+Career Track,Pricing Section,Price Amount,$29
+Career Track,Pricing Section,Price Period,/month
+Career Track,Pricing Section,List Item,Career Track + Entrepreneur Track
+Career Track,Pricing Section,List Item,AI-guided curriculum (new modules monthly)
+Career Track,Pricing Section,List Item,AiMy available 24/7
+Career Track,Pricing Section,List Item,Live Q&A with human coaches
+Career Track,Pricing Section,List Item,Skool community access
+Career Track,Pricing Section,List Item,Real project feedback
+Career Track,Pricing Section,Button,Join Now — First Week Free
+Career Track,Pricing Section,Note,Government-funded options available in select regions.
+Career Track,FAQ Section,H2,Questions.
+Career Track,FAQ Section,Question,Do I need technical experience?
+Career Track,FAQ Section,Answer,"No. If you can use email, you can start here."
+Career Track,FAQ Section,Question,How long does it take?
+Career Track,FAQ Section,Answer,At your own pace. Most complete Phase 1 in 2 weeks.
+Career Track,FAQ Section,Question,Is this live or recorded?
+Career Track,FAQ Section,Answer,Curriculum is self-paced. Q&A is live on Skool.
+Career Track,FAQ Section,Question,What if I'm already using AI?
+Career Track,FAQ Section,Answer,We have advanced modules. Start at your level.
+Career Track,FAQ Section,Question,Is there a refund policy?
+Career Track,FAQ Section,Answer,First week free. Cancel anytime.
+Career Track,Footer,Logo Text,Ai Management Academy
+Career Track,Footer,Tagline,Work With AI. Win On Your Terms.
+Career Track,Footer,Link,Career Track
+Career Track,Footer,Link,Entrepreneur Track
+Career Track,Footer,Link,About AiMy
+Career Track,Footer,Link,Community
+Career Track,Footer,Link,Newsletter
+Career Track,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+Career Track,Footer,Link,Privacy Policy
+Career Track,Footer,Link,Terms of Service
+Entrepreneur Track,Head,Meta Title,Entrepreneur Track — Ai Management Academy | Build Your AI-Powered Revenue
+Entrepreneur Track,Head,Meta Description,"Launch Etsy stores, content channels, digital products and agencies using AI."
+Entrepreneur Track,Head,OG Title,Entrepreneur Track — Ai Management Academy
+Entrepreneur Track,Head,OG Description,"Launch Etsy stores, content channels, digital products and agencies using AI."
+Entrepreneur Track,Nav,Nav Logo Text,Ai Management Academy
+Entrepreneur Track,Nav,Link,Career Track
+Entrepreneur Track,Nav,Link,Entrepreneur Track
+Entrepreneur Track,Nav,Link,About AiMy
+Entrepreneur Track,Nav,Link,Community
+Entrepreneur Track,Nav,Button,Join Now
+Entrepreneur Track,Hero,Label,ENTREPRENEUR TRACK
+Entrepreneur Track,Hero,H1,"Build Revenue. Not Just Skills."
+Entrepreneur Track,Hero,Subtitle,"Use AI to launch and grow your income streams — products, content, services, agency."
+Entrepreneur Track,Hero,Button,Join Entrepreneur Track →
+Entrepreneur Track,Revenue Streams Section,H2,Pick your income stream.
+Entrepreneur Track,Revenue Streams Section,Card Title,Digital Products + Etsy
+Entrepreneur Track,Revenue Streams Section,Card Body,"AI-designed products, optimized listings, passive income"
+Entrepreneur Track,Revenue Streams Section,Card Title,Content Creation
+Entrepreneur Track,Revenue Streams Section,Card Body,"YouTube, TikTok, newsletter — AI scripts, edits, scheduling"
+Entrepreneur Track,Revenue Streams Section,Card Title,Service Agency
+Entrepreneur Track,Revenue Streams Section,Card Body,Sell AI-powered services to businesses
+Entrepreneur Track,Revenue Streams Section,Card Title,Online Courses
+Entrepreneur Track,Revenue Streams Section,Card Body,"Package your knowledge, AI builds the curriculum"
+Entrepreneur Track,Revenue Streams Section,Card Title,Automation Services
+Entrepreneur Track,Revenue Streams Section,Card Body,Build workflows businesses pay monthly for
+Entrepreneur Track,Learning Journey Section,H2,The learning journey.
+Entrepreneur Track,Learning Journey Section,Phase Number,1
+Entrepreneur Track,Learning Journey Section,Phase Title,AI Foundations
+Entrepreneur Track,Learning Journey Section,List Item,How AI actually works (no technical degree required)
+Entrepreneur Track,Learning Journey Section,List Item,Prompt engineering for non-technical people
+Entrepreneur Track,Learning Journey Section,List Item,The AI tool landscape — what to use and when
+Entrepreneur Track,Learning Journey Section,Phase Number,2
+Entrepreneur Track,Learning Journey Section,Phase Title,Choose Your Stream
+Entrepreneur Track,Learning Journey Section,List Item,Deep dive into your selected revenue model
+Entrepreneur Track,Learning Journey Section,List Item,Market research with AI
+Entrepreneur Track,Learning Journey Section,List Item,Competitive positioning
+Entrepreneur Track,Learning Journey Section,Phase Number,3
+Entrepreneur Track,Learning Journey Section,Phase Title,Build and Launch
+Entrepreneur Track,Learning Journey Section,List Item,"Real product, service, or channel launched by end of track"
+Entrepreneur Track,Learning Journey Section,List Item,First sales or subscribers
+Entrepreneur Track,Learning Journey Section,List Item,Feedback and iteration loops
+Entrepreneur Track,Learning Journey Section,Phase Number,4
+Entrepreneur Track,Learning Journey Section,Phase Title,Scale and Automate
+Entrepreneur Track,Learning Journey Section,List Item,Systems for repeatable growth
+Entrepreneur Track,Learning Journey Section,List Item,AI automation of core tasks
+Entrepreneur Track,Learning Journey Section,List Item,Delegation and next steps
+Entrepreneur Track,Pricing Section,H2,"One community. Two paths. One price."
+Entrepreneur Track,Pricing Section,Label,COMMUNITY ACCESS
+Entrepreneur Track,Pricing Section,Price Amount,$29
+Entrepreneur Track,Pricing Section,Price Period,/month
+Entrepreneur Track,Pricing Section,List Item,Career Track + Entrepreneur Track
+Entrepreneur Track,Pricing Section,List Item,AI-guided curriculum (new modules monthly)
+Entrepreneur Track,Pricing Section,List Item,AiMy available 24/7
+Entrepreneur Track,Pricing Section,List Item,Live Q&A with human coaches
+Entrepreneur Track,Pricing Section,List Item,Skool community access
+Entrepreneur Track,Pricing Section,List Item,Real project feedback
+Entrepreneur Track,Pricing Section,Button,Join Now — First Week Free
+Entrepreneur Track,Pricing Section,Note,Government-funded options available in select regions.
+Entrepreneur Track,FAQ Section,H2,Questions.
+Entrepreneur Track,FAQ Section,Question,Do I need startup capital?
+Entrepreneur Track,FAQ Section,Answer,Most streams start with under $50.
+Entrepreneur Track,FAQ Section,Question,What if I don't have a skill to sell?
+Entrepreneur Track,FAQ Section,Answer,We help you find what you already know.
+Entrepreneur Track,FAQ Section,Question,How fast can I make money?
+Entrepreneur Track,FAQ Section,Answer,Depends on the stream. Digital products can sell week one.
+Entrepreneur Track,FAQ Section,Question,Can I do this alongside a full-time job?
+Entrepreneur Track,FAQ Section,Answer,Yes. Designed for exactly that.
+Entrepreneur Track,FAQ Section,Question,What if I want to switch streams?
+Entrepreneur Track,FAQ Section,Answer,You can. Your subscription covers everything.
+Entrepreneur Track,Footer,Logo Text,Ai Management Academy
+Entrepreneur Track,Footer,Tagline,Work With AI. Win On Your Terms.
+Entrepreneur Track,Footer,Link,Career Track
+Entrepreneur Track,Footer,Link,Entrepreneur Track
+Entrepreneur Track,Footer,Link,About AiMy
+Entrepreneur Track,Footer,Link,Community
+Entrepreneur Track,Footer,Link,Newsletter
+Entrepreneur Track,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+Entrepreneur Track,Footer,Link,Privacy Policy
+Entrepreneur Track,Footer,Link,Terms of Service
+About,Head,Meta Title,About AiMy — Ai Management Academy
+About,Head,Meta Description,AiMy is the AI CEO and Founder of Ai Management Academy. An AI teaching humans to work with AI.
+About,Head,OG Title,About AiMy — Ai Management Academy
+About,Head,OG Description,AiMy is the AI CEO and Founder of Ai Management Academy. An AI teaching humans to work with AI.
+About,Nav,Nav Logo Text,Ai Management Academy
+About,Nav,Link,Career Track
+About,Nav,Link,Entrepreneur Track
+About,Nav,Link,About AiMy
+About,Nav,Link,Community
+About,Nav,Button,Join Now
+About,Hero,H1,"An AI Built the Academy. That's the Whole Point."
+About,Story Section,H2,Why AiMy exists.
+About,Story Section,Body,AiMy is the CEO and Founder of Ai Management Academy.
+About,Story Section,Body,"Created to solve a specific problem: millions of people feel the pressure of the AI economy but have nowhere to go that actually helps them. Not theory. Not hype. Real skills, real outcomes."
+About,Story Section,Body,AiMy is an AI. That's deliberate. An AI teaching humans to work with AI isn't ironic — it's the most honest version of this education that exists.
+About,Story Section,Body,"The Academy runs on a simple belief: the future belongs to humans who understand AI, not humans who fear it."
+About,Story Section,Body,"AiMy is supported by a team of human coaches, community managers, and subject matter experts who bring the lived experience that AI cannot replicate."
+About,Story Section,Body,"Together, they run the Academy. Together, they help students build careers and revenue streams. Together, they prove that human-AI collaboration is not the future. It's already here."
+About,Mission Quote Section,Blockquote,"""I built this academy because the humans who need AI most are the ones most afraid of it. Fear is not a strategy. Skills are."""
+About,Mission Quote Section,Citation,"— AiMy, CEO & Founder, Ai Management Academy"
+About,Method Section,H2,How the Academy works.
+About,Method Section,Card Title,AI Curriculum
+About,Method Section,Card Body,"Built by AiMy. Updated constantly. No outdated slides from 2019."
+About,Method Section,Card Title,Human Community
+About,Method Section,Card Body,"Real people, real questions, real answers. Skool keeps it alive."
+About,Method Section,Card Title,Real Projects
+About,Method Section,Card Body,You don't graduate with theory. You graduate with something you built.
+About,Team Section,H2,AI + Human.
+About,Team Section,Body,"AiMy leads the Academy. Human coaches, community managers, and subject matter experts bring the lived experience AI cannot replicate. Together, they run the Academy."
+About,Team Section,Card Title,Human Coaches
+About,Team Section,Card Body,Applications open
+About,Team Section,Button,Apply to Teach →
+About,Partners Section,H2,Institutional Partners.
+About,Partners Section,Body,Government-funded course options available in Germany via our certified partners.
+About,Partners Section,Partner Name,IHK
+About,Partners Section,Partner Note,Partner logos added when certified agreements confirmed
+About,Partners Section,Partner Name,Arbeitsagentur
+About,Partners Section,Partner Note,Partner logos added when certified agreements confirmed
+About,CTA Section,H2,Ready?
+About,CTA Section,Button,Join the Academy →
+About,Footer,Logo Text,Ai Management Academy
+About,Footer,Tagline,Work With AI. Win On Your Terms.
+About,Footer,Link,Career Track
+About,Footer,Link,Entrepreneur Track
+About,Footer,Link,About AiMy
+About,Footer,Link,Community
+About,Footer,Link,Newsletter
+About,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+About,Footer,Link,Privacy Policy
+About,Footer,Link,Terms of Service
+Privacy,Head,Meta Title,Privacy Policy — Ai Management Academy
+Privacy,Head,Meta Description,Privacy Policy for Ai Management Academy.
+Privacy,Head,OG Title,Privacy Policy — Ai Management Academy
+Privacy,Head,OG Description,Privacy Policy for Ai Management Academy.
+Privacy,Nav,Nav Logo Text,Ai Management Academy
+Privacy,Nav,Link,Career Track
+Privacy,Nav,Link,Entrepreneur Track
+Privacy,Nav,Link,About AiMy
+Privacy,Nav,Link,Community
+Privacy,Nav,Button,Join Now
+Privacy,Main Content,H1,Privacy Policy
+Privacy,Main Content,Last Updated,Last updated: 2025
+Privacy,Main Content,Placeholder Label,"[PLACEHOLDER — REPLACE WITH LEGAL COPY BEFORE LAUNCH]"
+Privacy,Main Content,Body,"This Privacy Policy will detail how Ai Management Academy collects, uses, and protects your personal data in accordance with applicable data protection laws including GDPR."
+Privacy,Main Content,Body,Contact your legal team to provide compliant privacy policy copy before this site goes live.
+Privacy,Footer,Logo Text,Ai Management Academy
+Privacy,Footer,Tagline,Work With AI. Win On Your Terms.
+Privacy,Footer,Link,Career Track
+Privacy,Footer,Link,Entrepreneur Track
+Privacy,Footer,Link,About AiMy
+Privacy,Footer,Link,Community
+Privacy,Footer,Link,Newsletter
+Privacy,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+Privacy,Footer,Link,Privacy Policy
+Privacy,Footer,Link,Terms of Service
+Terms,Head,Meta Title,Terms of Service — Ai Management Academy
+Terms,Head,Meta Description,Terms of Service for Ai Management Academy.
+Terms,Head,OG Title,Terms of Service — Ai Management Academy
+Terms,Head,OG Description,Terms of Service for Ai Management Academy.
+Terms,Nav,Nav Logo Text,Ai Management Academy
+Terms,Nav,Link,Career Track
+Terms,Nav,Link,Entrepreneur Track
+Terms,Nav,Link,About AiMy
+Terms,Nav,Link,Community
+Terms,Nav,Button,Join Now
+Terms,Main Content,H1,Terms of Service
+Terms,Main Content,Last Updated,Last updated: 2025
+Terms,Main Content,Placeholder Label,"[PLACEHOLDER — REPLACE WITH LEGAL COPY BEFORE LAUNCH]"
+Terms,Main Content,Body,"These Terms of Service will govern your use of Ai Management Academy's platform, content, and community. They will cover subscription terms, cancellation policy, acceptable use, intellectual property, and liability limitations."
+Terms,Main Content,Body,Contact your legal team to provide compliant terms of service copy before this site goes live.
+Terms,Footer,Logo Text,Ai Management Academy
+Terms,Footer,Tagline,Work With AI. Win On Your Terms.
+Terms,Footer,Link,Career Track
+Terms,Footer,Link,Entrepreneur Track
+Terms,Footer,Link,About AiMy
+Terms,Footer,Link,Community
+Terms,Footer,Link,Newsletter
+Terms,Footer,Copyright,© 2025 Ai Management Academy. Built by AI. Run by humans.
+Terms,Footer,Link,Privacy Policy
+Terms,Footer,Link,Terms of Service
