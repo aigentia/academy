@@ -139,4 +139,7 @@
 
   .pricing-card { padding: 32px 24px; }
   .pricing-price .amount { font-size: 72px; }
+
+  .hero-career-content .btn,
+  .hero-entrepreneur-content .btn { font-size: 14px; padding: 12px 20px; }
 }

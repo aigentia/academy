@@ -622,6 +622,8 @@
 .nav-home .nav-logo {
   align-items: center;
   gap: 24px;
+  flex-shrink: 1;
+  min-width: 0;
 }
 .nav-home .nav-logo img {
   width: 56px;
@@ -632,6 +634,7 @@
   font-size: clamp(32px, 10vw, 48px);
   white-space: normal;
   line-height: 1;
+  min-width: 0;
 }
 
 /* ===== COOKIE BANNER ===== */
