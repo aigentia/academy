@@ -629,7 +629,7 @@
   flex-shrink: 0;
 }
 .nav-home .nav-logo-text {
-  font-size: 48px;
+  font-size: clamp(32px, 10vw, 48px);
   white-space: normal;
   line-height: 1;
 }
